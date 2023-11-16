@@ -1,0 +1,286 @@
+@media(max-width:1199px){
+    header {
+        height: 150vh;
+    }
+    .text p {
+        padding: 0 150px;
+    }
+    .one span::before {
+
+        width: 10%;
+
+    }
+    .bee{
+        width: 20%;
+    }
+    .one span::after {
+
+        width: 10%;
+
+    }
+    .nice{
+        width: 33%;
+    }
+    .ser article {
+        padding: 0px 8px;
+     
+    }
+    .lorem {
+        height: 120vh;
+    }
+}
+
+
+@media(max-width:991px){
+    header{
+        height: 100vh;
+    }
+    img.img {
+        width: 200px;
+    }
+    .text h1 {
+        font-size: 45px;
+    }
+    .text p{
+        font-size: 14px;
+    }
+    .text2 h1{
+        font-size: 35px;        
+    }
+    .one span::before {
+        top: 25px;
+    }
+    
+    .one span::after {
+        top: 25px;
+    }
+   .bee{
+    width: 20%;
+   }
+    a.nav-link{
+        font-size: 11px;
+    }
+    section.body {
+        height: 105vh;
+    }
+    .our .img {
+        width: 75%;
+       
+        height: 50%;
+    }
+    .chk {
+      
+        height: 250px;
+    }
+    .our h1 {
+        font-size: 21px;
+    }
+    .ser b {
+        font-size: 18px;
+        padding: 10px 0px;
+
+    }
+    .ser article {
+        line-height: 25px;
+        font-size: 12px;
+  
+    }
+    .pic img {
+        width: 116px  !important;
+    }
+    .lorem {
+        height: 150vh;
+    }
+
+    .learn a {
+        font-size: 13px;
+    }
+
+    footer h1 {
+        font-size: 50px;
+      
+    }
+    
+
+}
+
+@media(max-width:767px){
+    header {
+        height: 162vh;
+    }
+    a.nav-link {
+        text-align: center;
+        margin: 0;
+        padding-top: 15px;
+    }
+    header img.img-fluid {
+        margin-left: 40%;
+        width: 100px;
+        padding-bottom: 5px;
+    }
+    .banner::before{
+        display: none;
+    }
+    .navbar i{
+        color:white;
+    }
+    .text h1 {
+        font-size: 35px;
+    }
+    .text p {
+        padding: 10px 50px;
+        font-size: 13px;
+    }
+    .text .more {
+        padding: 7px 20px;
+        font-size: 14px;
+    }
+    .text2 h1 {
+        font-size: 30px;
+    }
+    .one span::before {
+        width: 12%;
+        left: 0px;
+
+    }
+    .one span::after {
+        width: 12%;
+        right: 0px;
+    }
+    .text2 a {
+        padding: 5px 25px;
+        font-size: 16px;
+
+    }
+    section.body {
+        height: 228vh;
+    }
+ 
+    .bee{
+        width: 50%;
+        
+    }
+   .nice{
+    width: 33%;
+   }
+   
+    .pic img {
+        width: 200px  !important;
+        margin: 0;
+        margin-top: 20px;
+    }
+
+    .ph img {
+        width: 18% !important;
+    }
+    .ser b {
+        font-size: 13px;
+        padding: 8px 0px;
+    }
+    .ser article {
+        line-height: 20px;
+        font-size: 10px;
+        padding: 0;
+    }
+    .learn a {
+        font-size: 11px;
+        padding: 5px 15px;
+        margin-top: 15px;
+
+    }
+    footer h1 {
+        font-size: 37px;
+    }
+}
+
+@media(max-width:575px){
+    header {
+        height: 155vh;
+    }
+    a.nav-link {
+        text-align: center;
+        margin: 0;
+        padding-top: 15px;
+    }
+    header img.img-fluid {
+        margin-left: 37%;
+        width: 100px;
+        padding-bottom: 5px;
+    }
+    .banner::before{
+        display: none;
+    }
+    
+    .text h1 {
+        font-size: 22px;
+    }
+    .text p {
+        padding: 10px 20px;
+        font-size: 11px;
+    }
+    .text .more {
+        padding: 7px 20px;
+        font-size: 14px;
+    }
+    .text2 h1 {
+        font-size: 18px;
+    }
+    .one span::before {
+        width: 10%;
+        left: 0px;
+        top: 10px;
+
+    }
+    .one span::after {
+        width: 10%;
+        right: 0px;
+        top: 10px;
+    }
+    .text2 a {
+        padding: 5px 20px;
+        font-size: 10px;
+    }
+    .text2 p {
+        font-size: 9px;
+        padding: 10px 0 0;
+    }
+    section.body {
+        height: 205vh;
+    }
+ 
+    .bee{
+        width: 50%;
+        
+    }
+   .nice{
+    width: 33%;
+   }
+   
+    .pic img {
+        width: 200px  !important;
+        margin: 0;
+        margin-top: 20px;
+    }
+
+    .ph img {
+        width: 18% !important;
+    }
+    .ser b {
+        font-size: 13px;
+        padding: 8px 0px;
+    }
+    .ser article {
+        line-height: 20px;
+        font-size: 10px;
+        padding: 0;
+    }
+    .learn a {
+        font-size: 11px;
+        padding: 5px 15px;
+        margin-top: 15px;
+
+    }
+    footer h1 {
+        font-size: 37px;
+    }
+}
